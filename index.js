@@ -1,9 +1,2 @@
-import React, { Component } from 'react';
-
-class ModernChat extends Component {
-  render() {
-    
-  }
-};
-
-export default ModernChat;
+import Wrapper from './src/Wrapper';
+export default Wrapper;
