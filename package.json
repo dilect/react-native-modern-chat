@@ -13,7 +13,6 @@
   "author": "dilect",
   "license": "ISC",
   "dependencies": {
-    "react-native-autogrow-textinput": "^5.1.1",
-    "react-native-keyboard-aware-scrollview": "^2.0.0"
+    "react-native-autogrow-textinput": "^5.1.1"
   }
 }
